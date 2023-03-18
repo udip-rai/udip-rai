@@ -1,8 +1,8 @@
 
-### Greetings, fellow Earthien 👾
+## Greetings, fellow Earthien 👾
 ✨ Watch out for a wild ***<ins>MERN Stack Dev 🤖</ins>*** on loose ಠ_ಠ
 
-#### MERN STACK
+### <ins>MERN STACK</ins>
 - [ ] ***MongoDB***
 - [ ] ***Express***
 - [x] ***ReactJS***
@@ -14,6 +14,6 @@
 	- [ ] ❌ ~~Material UI~~
 - [ ] ***NodeJS***
 
-#### Others
+### <ins>Others</ins>
 - [ ] ❌ ~~NextJS~~
 - [ ] ❌ ~~NestJS~~
