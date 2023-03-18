@@ -1,8 +1,8 @@
 
 ### Greetings, fellow Earthien 👾
-✨ Watch out for a wild ***<ins>MERN Stack Dev</ins>*** on loose ಠ_ಠ
+✨ Watch out for a wild ***<ins>MERN Stack Dev 🤖</ins>*** on loose ಠ_ಠ
 
-#### get yourself a pillow 🗯 & let me tell you about a long journey of a 🤖, more importantly skill-sets that I have as of 2023 and running 💤
+#### get yourself a pillow 🗯 & let me tell you about a long journey of a , more importantly skill-sets that I have as of 2023 and running 💤
 - [ ] ***MongoDB***
 - [ ] ***Express***
 - [x] ***ReactJS***
@@ -13,3 +13,7 @@
 	- [x] 💯 Proficient in Bootstrap, MDBootstrap, TailwindCss
 	- [ ] ❌ ~~Material UI~~
 - [ ] ***NodeJS***
+
+Others
+- [ ] ❌ ~~NextJS~~
+- [ ] ❌ ~~NestJS~~
