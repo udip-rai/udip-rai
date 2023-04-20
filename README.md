@@ -1,19 +1,17 @@
 
 ## Greetings, fellow Earthien 👾
-✨ Watch out for a wild ***<ins>MERN Stack Dev 🤖</ins>*** on loose ಠ_ಠ
+ 
 
-### <ins>MERN STACK</ins>
-- [ ] ***MongoDB***
-- [ ] ***Express***
-- [x] ***ReactJS***
-	- [x] ✅ TypeScript with TDD Approach</sub>
-	- [x] ✅ React Redux Toolkit aka RTK skilled
-	- [x] ✅ React Advanced Hooks adept
-	- [x] 💯 Chakra UI theme's closest relative
-	- [x] 💯 Proficient in Bootstrap, MDBootstrap, TailwindCss
-	- [ ] ❌ ~~Material UI~~
-- [ ] ***NodeJS***
+### ✅ <ins>MERN STACK</ins>
+💤 ***ReactJs***
+💤 ***NextJs***
+💤 ***MongoDB***
+💤 ***Express***
 
-### <ins>Others</ins>
-- [ ] ❌ ~~NextJS~~
-- [ ] ❌ ~~NestJS~~
+### ✅ <ins>Skills</ins>
+- [x] ✨ TypeScript with TDD Approach</sub>
+- [x] ✨ React Redux Toolkit aka RTK skilled
+- [x] 💯 React Advanced Hooks adept
+- [x] ✨ Expert in Chakra UI theme & TailwindCss
+- [x] 💯 Proficient in Bootstrap &/ MDBootstrap 
+
