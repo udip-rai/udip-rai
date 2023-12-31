@@ -8,7 +8,7 @@
     "database": ["SQLite", "MySQL", "MSSQL", "MongoDB"],
     "languages": ["C", "C++", "PHP", "JavaScript", "C#", "Java", "TypeScript"]
   },
-  "skillsets": {
+  "skill_set": {
     "state_management": "Proficient in React Redux & Context API", 
     "css_frameworks": ["Tailwind CSS", "Chakra UI", "Material UI", "Bootstrap", "MDBootstrap"],  
     "testing": "Experienced in TypeScript with a TDD Approach using Jest, Cypress, and Storybook",
