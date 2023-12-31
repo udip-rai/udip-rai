@@ -6,7 +6,7 @@
   "tech_stack": {
     "frontend": ["React", "Next.js"],
     "backend": ["Laravel", "Express", "Node.js", "Django"],
-    "database": ["SQLite", "MySQL", "MongoDB"],
+    "database": ["SQLite", "MySQL", "MSSQL", "MongoDB"],
     "languages": ["C", "C++", "PHP", "JavaScript", "C#", "Java", "TypeScript"]
   },
   "skillsets": {
