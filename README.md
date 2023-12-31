@@ -3,8 +3,8 @@
  
 
 ### ✅ <ins>MERN STACK</ins>
-💤 ***ReactJs***
-💤 ***NextJs***
+💤 ***React / Next TS***
+💤 ***NodeJs***
 💤 ***MongoDB***
 💤 ***Express***
 
