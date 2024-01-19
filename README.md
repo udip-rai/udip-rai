@@ -23,6 +23,8 @@
 ```
 [![GitHub Streak](https://streak-stats.demolab.com/?user=udip-rai&theme=dark)](https://git.io/streak-stats)
 
-<a href="https://github-readme-stats.vercel.app/api?username=udip-rai">
+<div style={{display:"flex"}}>
+  <a href="https://github-readme-stats.vercel.app/api?username=udip-rai">
 <img src="https://github-readme-stats.vercel.app/api?username=udip-rai" alt="Udip Rai's score"/>
 </a>
+</div>
