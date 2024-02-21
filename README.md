@@ -14,7 +14,7 @@
     "testing": "Experienced in TypeScript with a TDD Approach using Jest, Cypress, and Storybook",
     "programming": "Passionate since my early days of high school" 
   },
-  "likes": ["Nature", "Random music beats", "Refreshing walks with doggo"]
+  "likes": ["Nature", "Random music beats", "Refreshing walks with my doggo"]
 }
 ```
 [![GitHub Streak](https://streak-stats.demolab.com/?user=udip-rai&theme=dark)](https://git.io/streak-stats)
