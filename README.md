@@ -17,6 +17,6 @@
   "likes": ["Nature", "Random music beats", "Refreshing walks with my doggo"]
 }
 ```
-[![GitHub Streak](https://streak-stats.demolab.com/?user=udip-rai)]
+![GitHub Streak](https://streak-stats.demolab.com/?user=udip-rai&theme=dark)
 
 
