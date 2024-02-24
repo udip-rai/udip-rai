@@ -18,6 +18,6 @@
 }
 ```
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=udip-rai&theme=dark)](https://git.io/streak-stats)
 
 
