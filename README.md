@@ -4,7 +4,7 @@
 {
   "tech_stack": {
     "frontend": ["React", "Next.js", "Basically everything JS related"],
-    "backend": ["Laravel", "Express", "Node.js", "Django"],
+    "backend": ["Laravel", "Express", "Node.js", "Django", "MongoDB"],
     "database": ["SQLite", "MySQL", "MSSQL", "MongoDB"],
     "languages": ["C", "C++", "PHP", "JavaScript", "C#", "Java", "TypeScript"]
   },
