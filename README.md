@@ -17,4 +17,4 @@
   "likes": ["Nature", "Random music beats", "Refreshing walks with my doggo"]
 }
 ```
-[![GitHub Streak](whatsapp-dark)](https://git.io/streak-stats)
+[![GitHub Streak](tokyonight)](https://git.io/streak-stats)
