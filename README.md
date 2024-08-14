@@ -1,22 +1,11 @@
 ## Greetings, fellow Earthien 👾
 
-```
-{
-  "tech_stack": {
-    "frontend": ["React", "Next.js", "Basically everything JS related"],
-    "backend": ["Laravel", "Express", "Node.js", "Django", "MongoDB"],
-    "database": ["SQLite", "MySQL", "MSSQL", "MongoDB"],
-    "languages": ["C", "C++", "PHP", "JavaScript", "C#", "Java", "TypeScript"]
-  },
-  "skill_set": {
-    "state_management": "Proficient in React Redux & Context API", 
-    "css_frameworks": ["Tailwind CSS", "Chakra UI", "Material UI", "Bootstrap", "MDBootstrap"],  
-    "testing": "Experienced in TypeScript with a TDD Approach using Jest, Cypress, and Storybook",
-    "programming": "Passionate since my early days of high school" 
-  },
-  "likes": ["Nature", "Random music beats", "Refreshing walks with my doggo"]
-}
-```
+📋Fullstack Spidevman (MERN)
+📋Comfortable in solving programming problems in JS, Java & Python
+
+💡Update 1: 
+📋Getting familiar with Three.js using r3f and drei, alongside Blender for 3D modeling
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=udip-rai&theme=catppuccin-macchiato)](https://git.io/streak-stats)
 
 
