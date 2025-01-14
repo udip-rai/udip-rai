@@ -1,5 +1,7 @@
 ## Greetings, fellow Earthien 👾
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=udip-rai)
+
 I upload some youtube videos when I have time.. like this:
 https://youtu.be/GI1nsYNRPcM
 
