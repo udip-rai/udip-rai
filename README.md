@@ -11,7 +11,8 @@ https://youtu.be/GI1nsYNRPcM
 💡Update 1: 
 📋Getting familiar with Three.js using r3f and drei, alongside Blender for 3D modeling
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=udip-rai&theme=tokyonight)](https://git.io/streaky-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=udip-rai&theme=whatsapp-2)](https://git.io/streaky-stats)
+
 
 
 
